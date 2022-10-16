@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(source/background.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    opacity: 94%;
+    text-align: center;
+}
+
+#subject{
+    font-size: 30px ;
+}
+
+#title{
+    font-feature-settings:"smcp" ;
+    font-size: 50px;
+}
+#section1{
+
+}
+#section2{
+
+}
+#section3{
+
+}
