@@ -160,12 +160,7 @@ a {
 
     }
 
-    div.parallax {
-        background-image: url("source/bear.jpeg");
-        min-height: 100%;
-
-
-    }
+   
 
     div.caption span.border {
         background-color: transparent;
@@ -408,12 +403,8 @@ a {
 
     }
 
-    div.parallax {
-        background-image: url("file:///home/ctangnam/Downloads/3494AF18-8544-447E-8268-40D55513AF0D.jpeg");
-        min-height: 100%;
-
-
-    }
+    
+    
 
     div.caption span.border {
         background-color: transparent;
@@ -617,7 +608,7 @@ a {
 }
 
 .parallax {
-    background-image: url("file:///home/ctangnam/Downloads/3494AF18-8544-447E-8268-40D55513AF0D.jpeg");
+    background-image: url("https://scontent.fbkk5-8.fna.fbcdn.net/v/t1.15752-9/305327068_803852800668941_4143070759309850415_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFMvMQk1NVTIh5sHRBRnjz14wozzjPxxYzjCjPOM_HFjHBCDot8lZpUloAjZhY7ejefLOO-4vFPX16GHScq9nmF&_nc_ohc=d4jF8rixNGsAX-jbIPa&tn=TOtTEhr5ISY2vzqz&_nc_ht=scontent.fbkk5-8.fna&oh=03_AdQXpfmnJAKfRbVIlphAirbrWsclhMkIR28TXg6V03_PVg&oe=63716CF5");
     min-height: 100%;
 
 
